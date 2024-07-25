@@ -43,7 +43,7 @@ body {
     font-style: normal;
 }
 
-.adress .link-1 {
+.adress .link-one {
     list-style-type: none;
     font-weight: 400;
     font-size: 16px;
@@ -53,17 +53,17 @@ body {
     text-decoration: none;
 }
 
-.adress .link-1:hover,
-.adress .link-1:focus {
+.adress .link-one:hover,
+.adress .link-one:focus {
     color: #404bbf;
 }
 
 
-.section-1 {
+.section-one {
     background-color: #2e2f42;
 }
 
-.section-1 > h1 {
+.section-one > h1 {
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07143;
@@ -105,7 +105,7 @@ body {
     color: #2e2f42;
 }
 
-.zag3{
+.zag-z{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -145,7 +145,7 @@ body {
     
 }
 
-.pic1{
+.pic{
     background-color: #FFFFFF;
 
 }
