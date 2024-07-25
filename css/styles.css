@@ -154,10 +154,10 @@ body {
 .portfolio > h2 {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    line-height: 1.11;
 }
 
 .our-team > h3,
@@ -191,4 +191,8 @@ body {
 
 .footer{
     background-color: #2e2f42;
+}
+
+.stud{
+    color: #f4f4fd;
 }
